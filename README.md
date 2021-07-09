@@ -1,2 +1,4 @@
-# OxfordPresentation
-PResentation in Developing Artificial Intelligence Applications using Python and TensorFlow course at University of Oxford on 10.07.2021
+# Developing Artificial Intelligence Applications using Python and TensorFlow
+## University of Oxford, 10.07.2021
+
+Slides and source code are available for download.
